@@ -1,0 +1,19 @@
+{
+  "name": "coindesk_nodejs",
+  "version": "1.0.0",
+  "description": "\"# coindesk_nodejs\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navesnitw/coindesk_nodejs.git"
+  },
+  "author": "npotnuru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navesnitw/coindesk_nodejs/issues"
+  },
+  "homepage": "https://github.com/navesnitw/coindesk_nodejs#readme"
+}
